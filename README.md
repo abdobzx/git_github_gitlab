@@ -7,4 +7,4 @@ Hello World !!
 </p>
 
 
-![photo1698950987](https://github.com/abdobzx/git_github_gitlab/assets/61870589/41b04a3e-530d-4498-b3c3-63ec0b79031f)
+![github photo](https://github.com/abdobzx/git_github_gitlab/assets/61870589/9a438435-e27a-4e21-bdc4-73256b5ca4b1)
