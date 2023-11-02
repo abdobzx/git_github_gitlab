@@ -4,5 +4,6 @@
 <p>
  
 </p>
-![photo1698950987](https://github.com/abdobzx/git_github_gitlab/assets/61870589/9e6eb4b4-fe23-49b2-9e5b-c3d23cfdeb12)
 
+
+![photo1698950987](https://github.com/abdobzx/git_github_gitlab/assets/61870589/41b04a3e-530d-4498-b3c3-63ec0b79031f)
