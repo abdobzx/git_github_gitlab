@@ -12,7 +12,8 @@ Hello World !!
 
 <p> this is how we create repo on github</p>
 <p> 1. </p>
-![Screenshot 2023-11-03 204305](https://github.com/abdobzx/git_github_gitlab/assets/61870589/d024c788-a505-4169-a58e-01aa46557493)
+
+![Screenshot 2023-11-03 204407](https://github.com/abdobzx/git_github_gitlab/assets/61870589/1c289942-7a13-4ffc-99cb-c8cdf343bd9f)
 
 
 <p> 2. </p>
