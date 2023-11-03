@@ -16,7 +16,8 @@ Hello World !!
 
 <p> 2. </p>
 
-![image](https://github.com/abdobzx/git_github_gitlab/assets/61870589/c0c7287d-3e1e-4f17-850e-14b75352f2fa)
+![image](https://github.com/abdobzx/git_github_gitlab/assets/61870589/5ab30734-e656-4e96-9704-f9cf71ae0e34)
+
 
 <p> 3. in this step you gonna see all the command you need </p>
 
