@@ -1,0 +1,19 @@
+git config --global --unset core.excludesfile
+
+git config --global --unset user.name git config --global --unset user.email
+
+git config --global user.name "adeleyeayodeji"
+
+git config --global user.email "biodunhi@gmail.com"
+
+ssh-keygen
+
+git init
+
+git add .
+
+git checkout 
+
+git commit
+
+git push 
