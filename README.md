@@ -28,7 +28,7 @@ Hello World !!
 
 <p>4. now you need to login with your gitbash <p>
 <p> make sure you follow this command :<p>
-<p>
+
 git config --global --unset core.excludesfile
 
 git config --global --unset user.name
@@ -44,7 +44,7 @@ ssh-keygen
 
 Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard</p>
 <p>you can follow this youtube video url:https://www.youtube.com/watch?v=dxvnbKaszBw&ab_channel=BiggiDroid</p>
-<p> after this step folow the command on step 3 </p>
+<p> after this step folow the command on step 3 
 
 <h1>On gitLab the same thing you need just to create a repo or a project on gitLab :</h1>
 
