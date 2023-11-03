@@ -49,3 +49,8 @@ Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard
 
 
 ![Screenshot 2023-11-03 204613](https://github.com/abdobzx/git_github_gitlab/assets/61870589/dc7f7f92-cfdc-42e8-a659-30ea10951f53)
+
+<p>now you can clone it from git </p>
+
+![Screenshot 2023-11-03 213938](https://github.com/abdobzx/git_github_gitlab/assets/61870589/5dc23a45-ec09-4855-8d86-0b5d1a67f857)
+
