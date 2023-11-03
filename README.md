@@ -26,8 +26,8 @@ Hello World !!
 ![image](https://github.com/abdobzx/git_github_gitlab/assets/61870589/af044c42-e89d-42a7-b21c-c79c5d6d935e)
 
 
-<p>4. now you need to login with your gitbash <p>
-<p> make sure you follow this command :<p>
+<p>4. now you need to login with your gitbash </p>
+<p> make sure you follow this command :</p>
 
 git config --global --unset core.excludesfile
 
@@ -42,9 +42,9 @@ ssh-keygen
 
 //powershell
 
-Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard</p>
+Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard
 <p>you can follow this youtube video url:https://www.youtube.com/watch?v=dxvnbKaszBw&ab_channel=BiggiDroid</p>
-<p> after this step folow the command on step 3 
+<p> after this step folow step 3 command </p>
 
 <h1>On gitLab the same thing you need just to create a repo or a project on gitLab :</h1>
 
