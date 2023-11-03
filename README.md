@@ -44,5 +44,7 @@ Get-Content ~/.ssh/id_rsa.pub | Set-Clipboard</p>
 <p> after this step folow the command on step 3 </p>
 
 <h1>On gitLab the same thing you need just to create a repo or a project on gitLab :</h1>
+![image](https://github.com/abdobzx/git_github_gitlab/assets/61870589/b6dffb32-05ed-4216-8e32-7a4938c1bdcf)
+
 
 
