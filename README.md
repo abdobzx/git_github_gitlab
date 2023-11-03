@@ -1,7 +1,6 @@
-.
 Hello World !!  
 
-<h1>this is for DevOps path project<h1>
+<h1>this is for DevOps path project</h1>
 <p>
  1- first this image talk about git and github branches
 </p>
